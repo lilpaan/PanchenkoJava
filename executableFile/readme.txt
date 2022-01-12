@@ -2,4 +2,4 @@
 1. Запустите командную строку
 2. Перейдите в корневую папку с выполненными заданиями
 3. Выполните следующую команду:
--jar executableFile/PanchenkoJava.jar
+java -jar executableFile/PanchenkoJava.jar
